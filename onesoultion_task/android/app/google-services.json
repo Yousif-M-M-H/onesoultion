@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313774158702",
+    "project_id": "bmicalculator-fd0b5",
+    "storage_bucket": "bmicalculator-fd0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313774158702:android:98a9dea9bf4bac89f2077f",
+        "android_client_info": {
+          "package_name": "com.example.onesoultion_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8UQIzRQXOA2KNuP4Rh7-mZ7HCOkJcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
